@@ -5,6 +5,9 @@
 1. [Github Account](https://github.com/)
 2. [Git CLI](https://git-scm.com/)
 3. [VS Code IDE](https://code.visualstudio.com/)
+4. [Node JS](https://nodejs.org/en)
+5. [Express JS](https://expressjs.com/)
+6. [Mongo DB Atlas](https://cloud.mongodb.com/)
 
 # Getting started
 
